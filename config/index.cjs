@@ -7,7 +7,7 @@
  */
 const USER_CONFIG = {
 
-  USE_PASSAGE: 'push-plus',
+  USE_PASSAGE: 'wechat-test',
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wxec17844bd1eefb7f',
 
@@ -61,9 +61,9 @@ SWITCH: {
       // 想要发送的人的名字
       name: '软软',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '6fde47df1da744cda045b602f18228d3',
+      id: 'o-Opv53Z9u4TNoOHezBiFBcVNQqY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '0001',
+      useTemplateId: 'cx-tA5WH2bPDivA8772nfqb9DFYWz4TN_bdEoTmzp_s',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-23',
       festivals: [
