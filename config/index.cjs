@@ -63,7 +63,7 @@ SWITCH: {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o-Opv53Z9u4TNoOHezBiFBcVNQqY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '36H01_k76ra8nITSDMN_g1KVEjKk6zbgqFQwHG4wiDI',
+      useTemplateId: 'GavcGZs-tCGXgxElHsyzSCaybNVbpqQY6G4i15hRdN0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-23',
       festivals: [
